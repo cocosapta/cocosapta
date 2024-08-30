@@ -1,5 +1,5 @@
 # 💫 About Me:
-Saya Lulusan Universitas Brawijaya jurusan D3 Teknologi Informasi. <br>Memiliki passion di bidang pengembangan web dan pemrograman. <br>Memiliki pengalaman magang di perusahaan manufaktur logam dan mesin selama 6 bulan dan startup teknologi selama 6<br>bulan. Terampil dalam bahasa pemrograman C++,PHP, SQL, JavaScript. <br>Fokus kerja saya yaitu pada pemrograman website dan game
+Saya Lulusan Universitas Brawijaya jurusan D3 Teknologi Informasi. Memiliki passion di bidang pengembangan web dan pemrograman. Memiliki pengalaman magang di perusahaan manufaktur logam dan mesin selama 6 bulan dan startup teknologi selama 6 bulan. Terampil dalam bahasa pemrograman C++,PHP, SQL, JavaScript. Fokus kerja saya yaitu pada pemrograman website dan game
 
 
 ## 🌐 Socials:
